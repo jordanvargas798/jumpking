@@ -147,6 +147,7 @@ body {
 
 .ytlink:hover {
     color: grey;
+    display: Flex;
 }
 
 .tabconfig {
@@ -297,4 +298,5 @@ form input:focus {
     color: #FFF;
 
 }
+
 
