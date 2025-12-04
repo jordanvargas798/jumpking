@@ -1,4 +1,4 @@
-@import url('https://fonts.google.com
+@import url(
 @keyframes startAnimation {
     0% {
         opacity: 0;
@@ -297,3 +297,4 @@ form input:focus {
     color: #FFF;
 
 }
+
